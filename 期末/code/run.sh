@@ -1,0 +1,1 @@
+g++ -o main main.cpp function_define.cpp && ./main
